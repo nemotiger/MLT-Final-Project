@@ -111,3 +111,8 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/python,visualstudiocode
+
+# project specific
+data/
+original_data/
+report/
